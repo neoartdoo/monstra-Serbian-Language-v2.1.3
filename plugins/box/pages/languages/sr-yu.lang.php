@@ -4,7 +4,7 @@
         'pages' => array(
             'Pages' => 'Strane',        
             'Pages manager' => 'Menadžer strana',        
-            'Content' => 'Ssadržaj',
+            'Content' => 'Sadržaj',
             'Create new page' => 'Kreiraj novu stranu',
             'New page' => 'Nova strana',
             'Edit page' => 'Izemni stranu',        
