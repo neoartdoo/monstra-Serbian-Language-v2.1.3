@@ -502,7 +502,7 @@
             'tr' => 'Türkçe',
             'uk' => 'Українська',
             'zh' => '中文',
-			'sr-yu' =>'Srpski latinica',
+	    'sr-yu' =>'Srpski latinica', //addon language
         );
 
 
