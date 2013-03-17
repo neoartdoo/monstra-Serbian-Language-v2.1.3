@@ -1,9 +1,8 @@
-
 <?php
 
     return array(
         'Editor' => array(
             'Editor' => 'Editor',
-            'Editor plugin' => 'Editor dodatak',  
+            'Editor plugin' => 'Editor dodatak.',  
         )
     );
